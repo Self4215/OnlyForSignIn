@@ -1,4 +1,4 @@
-# OnlyForSignIn
+# Only for my sign-in every Tuesday
 Nothing useful here :)
 
 **只是前面两次刚好都是周二提交贡献，就打算以后每周二都随便提交一次**
@@ -14,6 +14,6 @@ Created [Self4215 / introduction-to-github](https://github.com/Self4215/introduc
 
 ## Week 3 - 2023-01-17 周二
 
-Created [Self4215 / OnlyForSignIn](https://github.com/Self4215/OnlyForSignIn)
+Created [Self4215 / SignInEveryTuesday](https://github.com/Self4215/SignInEveryTuesday)
 
 正式开始签到
