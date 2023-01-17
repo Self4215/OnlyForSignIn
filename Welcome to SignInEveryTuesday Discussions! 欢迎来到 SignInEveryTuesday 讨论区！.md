@@ -43,7 +43,7 @@
 
 > 英文原版
 
-<!--
+<--
     ✏️ Optional: Customize the content below to let your community know what you intend to use Discussions for.
 -->
 
@@ -57,7 +57,7 @@
 
   To get started, comment below with an introduction of yourself and tell us about what you do with this community.
 
-<!--
+<--
   For the maintainers, here are some tips 💡 for getting started with Discussions. We'll leave these in Markdown comments for now, but feel free to take out the comments for all maintainers to see.
 
   📢 **Announce to your community** that Discussions is available! Go ahead and send that tweet, post, or link it from the website to drive traffic here.
@@ -111,7 +111,7 @@
 
 > DeepL翻译的版本
 
-<!--
+<--
 
 ​    ✏️ Optional: Customize the content below to let your community know what you intend to use Discussions for.
 
@@ -136,7 +136,7 @@
 
   要想开始，请在下面评论中介绍自己，并告诉我们你在这个社区做什么。
 
-<!--
+<--
 
   For the maintainers, here are some tips 💡 for getting started with Discussions. We'll leave these in Markdown comments for now, but feel free to take out the comments for all maintainers to see.
 
