@@ -17,3 +17,5 @@ Created [Self4215 / introduction-to-github](https://github.com/Self4215/introduc
 Created [Self4215 / SignInEveryTuesday](https://github.com/Self4215/SignInEveryTuesday)
 
 正式开始签到
+
+启动 Discussions 讨论区，并为讨论区的默认英语公告进行翻译
