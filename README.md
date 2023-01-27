@@ -19,3 +19,7 @@ Created [Self4215 / SignInEveryTuesday](https://github.com/Self4215/SignInEveryT
 正式开始签到
 
 启动 Discussions 讨论区，并为讨论区的默认英语公告进行翻译
+
+## Week 4 - 2023-01-27 周五
+
+寄，周二忘了签到，今天还能补签吗……![受虐滑稽](https://s1.ax1x.com/2023/01/27/pSU8NSP.png)
