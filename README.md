@@ -35,3 +35,7 @@ Created [Self4215 / SignInEveryTuesday](https://github.com/Self4215/SignInEveryT
 ## Week 7 - 2023-02-14 周二
 
 签到
+
+## Week 8 - 2023-02-25 周六
+
+又忘记签到了
