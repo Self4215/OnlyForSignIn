@@ -39,3 +39,7 @@ Created [Self4215 / SignInEveryTuesday](https://github.com/Self4215/SignInEveryT
 ## Week 8 - 2023-02-25 周六
 
 又忘记签到了
+
+## Week 9 - 2023-03-01 周三
+
+差点想改成 `SignInEveryWeek` (
